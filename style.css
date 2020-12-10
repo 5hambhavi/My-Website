@@ -1,0 +1,30 @@
+#apps{
+    background: linear-gradient(lavender,lightpink);
+}
+#games{
+    background: linear-gradient(lightpink,lightcyan);
+}
+#chatbots{
+    background: linear-gradient(lightcyan,lightgrey);
+}
+h1{
+    margin: 0px ;
+    font-size: 40px ;
+    letter-spacing: 3px ;
+    font-weight: 300 ;
+    font-variant: small-caps ;
+}
+h1{
+    padding: 10px ;
+}
+body{
+    text-align: center ;
+}
+img{
+    width: 30% ;
+    transition: transform 0.2s ;
+    padding: 5% ;
+}
+img:hover{
+    transform: scale(0.9) ;
+}
